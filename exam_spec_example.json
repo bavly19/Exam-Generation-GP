@@ -1,0 +1,26 @@
+{
+    "req_mcq": 10,
+    "req_tf": 5,
+    "req_essay": 3,
+    "difficulty_percentages": {
+        "easy": 30,
+        "medium": 50,
+        "hard": 20
+    },
+    "bloom_levels": [
+        "Knowledge",
+        "Comprehension",
+        "Analysis",
+        "Evaluation"
+    ],
+    "topics": [
+        "DenseNet's Future",
+        "The Challenge in Deep CNNs",
+        "Real-World Applications and Impact",
+        "DenseNet-121 Dense Blocks Overview",
+        "Parameter Efficiency",
+        "Purpose of Transition Blocks",
+        "Calculating Layers in DenseNet-121",
+        "DenseNet-121 Dense Block Structure"
+    ]
+}
